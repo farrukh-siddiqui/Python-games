@@ -15,8 +15,8 @@ player = 1                              #
 
 welcome_message = ("""Hello and welcome to our project
 This project has been made by:
-Abdullah Shabir Sp21-bse-004
-Farukh Ahmed Sp21-bse-028
+Abdullah Shabir 
+Farukh Ahmed 
 -----------------------------------------------------------------------------------------
  
 First you have to login or signup to play some of the games we have made for you.
